@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @Atharva-Nimbalkar
-- 👀 I’m interested in Web and Cloud Technology
-- 🌱 I’m currently learning CSS&Javascirpt&c++
+- 👀 I’m interested in Web and AIML Technology
+- 🔭 I’m currently working on Web Development
+- 🌱 I'm currently learning JAVA
+- 🤝 I'm looking to collaborate on Web Development
+- ❤️ love contributing in Open Source 
+- 😀 Pronouns: He/Him/His. 
+- 📫 How to Reach Me : atharva2753@gmail.com
+
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 [![@atharva_nimbalkar27's Holopin board](https://holopin.me/atharva_nimbalkar27)](https://holopin.io/@atharva_nimbalkar27)
