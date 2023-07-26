@@ -16,7 +16,7 @@
 - 🤝 I'm looking to collaborate on `Web Development and CP`   <br />
 - 🤔 I’m looking for help with `MERN`    <br />
 - ❤️ love to contribute `Open Source`       <br />
-- 📫 How to reach me: <a href="atharva2753@gmail.com"><img width="20" height="25" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>   <br />
+- 📫 How to reach me: <a href="mailto:atharva2753@gmail.com"><img width="20" height="25" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>   <br />
 - 😄 Pronouns: He/Him    <br />
 </p>
 
