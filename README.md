@@ -4,15 +4,15 @@
 ## <p align="center"> **Hello Geeks!, This is** [**Atharva Nimbalkar**](https://github.com/Atharva-Nimbalkar) :wave: </p>
 
 <div>
-<p align="center"> I'm Atharva Nimbalkar, a Junior Software Engineer. </p>
+<p align="center"> I'm Atharva Nimbalkar, Associate Machine Learning Engineer. </p>
 </div>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="410" height="230" />
 <p align="left">
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **EASE MODEL**
   
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **GenAI**
 
 - 👯 I’m looking to collaborate on **collaborate on Web Development and AI/ML**
 
